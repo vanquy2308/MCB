@@ -398,11 +398,6 @@
               <FileType>1</FileType>
               <FilePath>.\USER\main.c</FilePath>
             </File>
-            <File>
-              <FileName>test.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\USER\test.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
